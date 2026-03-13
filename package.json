@@ -1,0 +1,14 @@
+{
+  "name": "reptile-genetics-engine",
+  "version": "1.0.0",
+  "description": "Companion code for the Geckistry phenotype generator article on Dev.to",
+  "scripts": {
+    "confidence": "tsx src/confidence.ts",
+    "resolver": "tsx src/resolver-example.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
